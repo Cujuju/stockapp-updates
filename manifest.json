@@ -1,0 +1,12 @@
+{
+  "bundles": {
+    "b1cd12cbda83": {
+      "rev": 10637,
+      "version": "0.1951.3-r10637",
+      "commit": "172d442d299c2f8c85d79efc7c95f8ac5910c56f+a708c887b00efe4e14168350db5d798ed25c47af",
+      "url": "https://github.com/Cujuju/stockapp-updates/releases/download/r10637/stockapp-solo-r10637.zip",
+      "checksum": "G8WmBe9r0tauRrTsDhi3cwduWLylB9Un6ofTsBCxuGw8I3UpBCAiDtDsfrV/yCWCgRX9F2jVDO2gLv0xGdeOASU+UTY1RV21FdBmYwopZbxE8jdxzDjZfeHx7ET3l7MBCQaUX9rBibMforWJ4nlnUlFODJT0AfCLiZQE8dgO/SNwjKLm3ZBxXK/BTneNixRo6ycEPmmRVpWWuDLtld8/LF+5wx8uaw4r4iTJe9gqsUydwS8UOZMaKO6fWGFL3dH1bB7nFrsxjJRaOIGsqO2ZLEbt/d7ExiukTcgP5EJ3FU/h5LTCvE/FwTtkhSycBBwEI6fWmzV6QHeKiBiDLrPVMg==",
+      "sessionKey": "KAmy6t6Uc1lI0COFRlrwvw==:VjX+oY57F39kj8+uJ2dqgexwWWiXdqHTleHP3b7fjRMVy154/mv2t2mb5bi6OT2R7dHjukAaBCySei93r38Dioh/OCqsuhH6wbjEn1LcF9vs6tv3XlB5+CpATkyyLQXBoCWW3jfhiP8grrOUagQtuxax4i2a3nOp0RVGaCinpIYIRsSmzYwo65kpD85aTJc5VpYrBQKkFxhV97rnuM5Us5ZVpyyRv/NqIyn4+wy5QcBPc3KuSpCRdlkw7PGBt+8oJuuBIppRWtLsGBnXeAxIJEZJyIdR4dK7ZnccAWT0ZtPI8Y9UGOLg7Vh7ClONUc5bLORK7gwQwjVe4JhF3wfGXw=="
+    }
+  }
+}
